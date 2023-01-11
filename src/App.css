@@ -108,3 +108,6 @@
 .nextQuestionBtn:hover {
     transform: scale(1.1, 1.2)
 }
+.finalScore {
+    color: #293264;
+}
